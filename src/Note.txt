@@ -1,0 +1,8 @@
+Routing in react Using React router 6.4 
+https://reactrouter.com/en/main/start/tutorial
+
+in main js =>  we used two aproch 1) by create route variable  Array method
+                                  2) createRoutesFromElements  "to & element" 
+
+
+
